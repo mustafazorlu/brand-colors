@@ -1,0 +1,194 @@
+{
+    "500px": {
+        "title": "500px",
+        "slug": "500px",
+        "colors": [
+            "0099e5",
+            "ff4c4c",
+            "34bf49"
+        ],
+        "brand_url": "https:\/\/500px.com\/",
+        "source_url": "https:\/\/github.com\/brandcolors\/feedback\/issues\/205",
+        "created": "2014-11-03 08:42:42",
+        "modified": "2015-02-24 20:21:53",
+        "old_id": 28
+    },
+    "about-me": {
+        "title": "About.me",
+        "slug": "about-me",
+        "colors": [
+            "00a98f"
+        ],
+        "brand_url": "https:\/\/about.me\/",
+        "source_url": "https:\/\/about.me\/assets",
+        "created": "2014-11-03 08:42:42",
+        "modified": "2017-01-22 01:28:08",
+        "old_id": 29
+    },
+    "adidas": {
+        "title": "Adidas",
+        "slug": "adidas",
+        "colors": [
+            "000000",
+            "be0027",
+            "cf8d2e",
+            "e4e932",
+            "2c9f45",
+            "371777",
+            "52325d",
+            "511378"
+        ],
+        "brand_url": "https:\/\/www.adidas.com\/",
+        "source_url": "https:\/\/issuu.com\/chrisnguyen140596\/docs\/adidas_branding_guideline_01_done_d",
+        "created": "2018-02-14 05:01:05",
+        "modified": "2018-02-14 05:01:05",
+        "old_id": 0
+    },
+    "adobe": {
+        "title": "Adobe",
+        "slug": "adobe",
+        "colors": [
+            "ff0000",
+            "fbb034",
+            "ffdd00",
+            "c1d82f",
+            "00a4e4",
+            "8a7967",
+            "6a737b"
+        ],
+        "brand_url": null,
+        "source_url": null,
+        "created": "2014-11-03 08:42:42",
+        "modified": "2014-11-03 08:42:42",
+        "old_id": 31
+    },
+    "adyen": {
+        "title": "Adyen",
+        "slug": "adyen",
+        "colors": [
+            "0abf53",
+            "00112c"
+        ],
+        "brand_url": "https:\/\/www.adyen.com\/",
+        "source_url": "https:\/\/adyen.design\/guidelines.html",
+        "created": "2019-01-28 17:26:22",
+        "modified": "2019-01-28 17:26:22",
+        "old_id": 0
+    },
+    "adzuna": {
+        "title": "Adzuna",
+        "slug": "adzuna",
+        "colors": [
+            "279b37"
+        ],
+        "brand_url": "https:\/\/www.adzuna.com\/",
+        "source_url": null,
+        "created": "2018-02-15 17:03:24",
+        "modified": "2018-02-15 17:03:24",
+        "old_id": 0
+    },
+    "aer-lingus": {
+        "title": "Aer Lingus",
+        "slug": "aer-lingus",
+        "colors": [
+            "008374",
+            "89ba16",
+            "fefefe"
+        ],
+        "brand_url": "https:\/\/www.aerlingus.com\/html\/home.html",
+        "source_url": "https:\/\/issuu.com\/lukaszkulakowski\/docs\/aerlingus_brand_identity_system_gui",
+        "created": "2017-09-25 23:05:15",
+        "modified": "2017-09-25 23:05:15",
+        "old_id": 0
+    },
+    "aetna": {
+        "title": "Aetna",
+        "slug": "aetna",
+        "colors": [
+            "d20962",
+            "f47721",
+            "7ac143",
+            "00a78e",
+            "00bce4",
+            "7d3f98"
+        ],
+        "brand_url": "http:\/\/www.aetna.com",
+        "source_url": "http:\/\/www.aetna.com\/about-aetna-insurance\/assets\/documents\/aetna-style-guide.pdf",
+        "created": "2015-05-18 17:26:03",
+        "modified": "2015-05-18 17:26:03",
+        "old_id": 343
+    },
+    "aiesec": {
+        "title": "AIESEC",
+        "slug": "aiesec",
+        "colors": [
+            "037ef3",
+            "f85a40",
+            "00c16e",
+            "7552cc",
+            "0cb9c1",
+            "f48924",
+            "ffc845",
+            "52565e",
+            "caccd1",
+            "f3f4f7"
+        ],
+        "brand_url": "https:\/\/www.aiesec.org\/",
+        "source_url": "https:\/\/github.com\/brandcolors\/feedback\/issues\/901",
+        "created": "2021-06-03 04:42:16",
+        "modified": "2021-06-03 08:43:36",
+        "old_id": 0
+    },
+    "aim": {
+        "title": "Aim",
+        "slug": "aim",
+        "colors": [
+            "ffd900"
+        ],
+        "brand_url": null,
+        "source_url": null,
+        "created": "2014-11-03 08:42:42",
+        "modified": "2014-11-03 08:42:42",
+        "old_id": 32
+    },
+    "airbnb": {
+        "title": "Airbnb",
+        "slug": "airbnb",
+        "colors": [
+            "fd5c63"
+        ],
+        "brand_url": "https:\/\/www.airbnb.com\/",
+        "source_url": "https:\/\/www.airbnb.com\/press\/resources",
+        "created": "2015-05-26 15:29:31",
+        "modified": "2015-05-26 15:29:31",
+        "old_id": 421
+    },
+    "airbus": {
+        "title": "Airbus",
+        "slug": "airbus",
+        "colors": [
+            "74d2e7",
+            "48a9c5",
+            "0085ad",
+            "8db9ca",
+            "4298b5",
+            "005670",
+            "00205b",
+            "009f4d",
+            "84bd00",
+            "efdf00",
+            "fe5000",
+            "e4002b",
+            "da1884",
+            "a51890",
+            "0077c8",
+            "008eaa"
+        ],
+        "brand_url": "https:\/\/www.airbus.com\/",
+        "source_url": null,
+        "created": "2018-06-26 17:45:47",
+        "modified": "2018-06-26 17:45:47",
+        "old_id": 0
+    }
+    
+}
